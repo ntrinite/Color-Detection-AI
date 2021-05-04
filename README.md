@@ -1,6 +1,6 @@
 # Color-Detection-AI
 
-CS 3642: Artificial Intelligence
+Fall 2020 CS 3642: Artificial Intelligence
 Final Project
 Noah Trinite
 
